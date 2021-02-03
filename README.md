@@ -1,18 +1,18 @@
 # simple-html-node
 
-Para criação da estrutura básica do projeto foi utilizado o express instalado de forma global:
+1. Para criação da estrutura básica do projeto foi utilizado o express instalado de forma global:
 
 > express --view=pug formhtml
 
 
-Em seguida instaladas as dependências geradas:
+2. Em seguida instaladas as dependências geradas:
 
 > cd formhtml
 
 > npm install
 
 
-Dependências que foram instaladas:
+3. Dependências que foram instaladas:
 
 [cookie-parser](https://www.npmjs.com/package/cookie-parser)
 
@@ -29,6 +29,6 @@ Dependências que foram instaladas:
 
 
 
-Para rodar no modo DEBUG:
+4. Para rodar no modo DEBUG:
 
 > DEBUG=formhtml:* npm start
