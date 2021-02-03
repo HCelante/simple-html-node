@@ -14,12 +14,12 @@ Em seguida instaladas as dependências geradas:
 
 Dependências que foram instaladas:
 
-    [cookie-parser](https://www.npmjs.com/package/cookie-parser)
-    [debug](https://www.npmjs.com/package/debug)
-    [express](https://www.npmjs.com/package/express)
-    [http-errors](https://www.npmjs.com/package/http-errors)
-    [morgan](https://www.npmjs.com/package/morgan)
-    [pug](https://www.npmjs.com/package/pug)
+[cookie-parser](https://www.npmjs.com/package/cookie-parser)
+[debug](https://www.npmjs.com/package/debug)
+[express](https://www.npmjs.com/package/express)
+[http-errors](https://www.npmjs.com/package/http-errors)
+[morgan](https://www.npmjs.com/package/morgan)
+[pug](https://www.npmjs.com/package/pug)
 
 
 
