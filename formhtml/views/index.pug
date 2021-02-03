@@ -1,0 +1,29 @@
+extends layout
+block content
+  h1= "Olá,"
+  h2 bem vindo ao criador de formulários!
+  h4 Entre para criar um formulário ou escolha um para responder.
+  br
+
+
+  label( for="inputEmail" class="sr-only") Email address
+  br
+  input(type="email" name="username" id="inputEmail" class="form-control" placeholder="Email address" required autofocus)//-input password
+  br
+  br
+  label(for="inputPassword" class="sr-only") Password
+  br
+  input(type="password" name="password" id="inputPassword" class="form-control" placeholder="Password" required)//-remember Checkbox
+  br
+  br
+  - var divClasses=['checkbox', 'mb-3'];
+  div(class=divClasses)
+      label
+          input(type="checkbox" value="remember-me")
+          span Lembrar
+          
+  - var buttonClass=['btn', 'btn-lg', 'btn-primary', 'btn-block'];
+  
+  button(class=buttonClass type="submit") Entrar
+  
+ 
