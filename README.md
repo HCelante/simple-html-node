@@ -1,8 +1,14 @@
 # simple-html-node
+## Uma simples página de login utilizando pug
+
+
 
 1. Para criação da estrutura básica do projeto foi utilizado o express instalado de forma global:
 
 > express --view=pug formhtml
+
+
+
 
 
 2. Em seguida instaladas as dependências geradas:
@@ -10,6 +16,9 @@
 > cd formhtml
 
 > npm install
+
+
+
 
 
 3. Dependências que foram instaladas:
@@ -25,6 +34,10 @@
 [morgan](https://www.npmjs.com/package/morgan)
 
 [pug](https://www.npmjs.com/package/pug)
+
+
+
+
 
 
 
