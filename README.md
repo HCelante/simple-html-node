@@ -1,6 +1,7 @@
 # simple-html-node
 ## Uma simples página de login utilizando pug
 
+![](https://github.com/HCelante/simple-html-node/img/examplescreen.png)
 
 
 1. Para criação da estrutura básica do projeto foi utilizado o express instalado de forma global:
